@@ -1,0 +1,6 @@
+framework module Pods_rto2 {
+  umbrella header "Pods-rto2-umbrella.h"
+
+  export *
+  module * { export * }
+}
